@@ -1,5 +1,7 @@
 # CodeAlpha_Snort_Intrusion__Detection_System
 This is to expain how to develop a basic_netwrok instrdiuon dtetction system usin snort tool
+
+//Explanation video is on my LinkedIn page posts (https://www.linkedin.com/in/raghad-al-yatim-0619282a6/)
 # Snort Installation
 . sudo apt update
 
